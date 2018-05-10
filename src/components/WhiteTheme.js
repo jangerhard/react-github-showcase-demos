@@ -1,7 +1,8 @@
 import React from 'react';
 
 const style = {
-    textAlign: "left"
+    textAlign: "left",
+    padding: "16px"
 };
 
 const DarkTheme = ({children}) => (

@@ -4,7 +4,8 @@ const style = {
     textAlign: "left",
     color: "white",
     background: "#505050",
-    textDecoration: "none"
+    textDecoration: "none",
+    padding: "16px"
 };
 
 const DarkTheme = ({children}) => (
