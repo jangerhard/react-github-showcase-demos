@@ -13,8 +13,7 @@ const IndexPage = () => (
                 Github Showcase</a> component.</p>
         </div>
         <div>
-            <h2>White Theme -
-                <a href="https://github.com/jangerhard/react-github-showcase-demos/blob/master/src/components/WhiteTheme.js">Github</a>
+            <h2>White Theme - <a href="https://github.com/jangerhard/react-github-showcase-demos/blob/master/src/components/WhiteTheme.js">Github</a>
             </h2>
             <WhiteTheme>
                 <GithubShowcase username={"jangerhard"}
@@ -24,8 +23,7 @@ const IndexPage = () => (
         <br/>
         <hr/>
         <div>
-            <h2>Dark Theme -
-                <a href="https://github.com/jangerhard/react-github-showcase-demos/blob/master/src/components/DarkTheme.js">Github</a>
+            <h2>Dark Theme - <a href="https://github.com/jangerhard/react-github-showcase-demos/blob/master/src/components/DarkTheme.js">Github</a>
             </h2>
             <DarkTheme>
                 <GithubShowcase username={"jangerhard"}
@@ -35,8 +33,7 @@ const IndexPage = () => (
         <br/>
         <hr/>
         <div>
-            <h2>Blue Theme -
-                <a href="https://github.com/jangerhard/react-github-showcase-demos/blob/master/src/components/BlueTheme.js">Github</a>
+            <h2>Blue Theme - <a href="https://github.com/jangerhard/react-github-showcase-demos/blob/master/src/components/BlueTheme.js">Github</a>
             </h2>
             <BlueTheme>
                 <GithubShowcase username={"jangerhard"}
