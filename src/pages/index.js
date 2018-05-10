@@ -1,6 +1,7 @@
 import React from 'react'
 import WhiteTheme from "../components/WhiteTheme";
 import DarkTheme from "../components/DarkTheme";
+import BlueTheme from "../components/BlueTheme";
 import GithubShowcase from 'react-github-showcase';
 
 const IndexPage = () => (
@@ -24,6 +25,13 @@ const IndexPage = () => (
                 <GithubShowcase username={"jangerhard"}
                                 api_key={API_KEY}/>
             </DarkTheme>
+        </div>
+        <div>
+            <h2>Blue Theme</h2>
+            <BlueTheme>
+                <GithubShowcase username={"jangerhard"}
+                                api_key={API_KEY}/>
+            </BlueTheme>
         </div>
     </div>
 );

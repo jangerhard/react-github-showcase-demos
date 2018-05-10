@@ -2,8 +2,8 @@ import React from 'react';
 
 const style = {
     textAlign: "left",
-    color: "#d9d9d9",
-    background: "#484848",
+    color: "#9CC9E3",
+    background: "#2c334d",
     textDecoration: "none",
     padding: "16px"
 };
